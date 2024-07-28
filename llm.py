@@ -124,10 +124,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-# AIzaSyDZ3HyHcDNgwHtytM8oGMXNaj15TtwQfPk
-
-
-
 # urls = []
 # for i in range(3):
 #     url = st.sidebar.text_input(f"URL {i+1}")
